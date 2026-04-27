@@ -151,11 +151,16 @@ Single-step	Multi-step reasoning
 📍 Maps / navigation tools
 🧠 Persistent memory
 📧 Email / notification automation
+
+
 👨‍💻 Author
 
 Arijit Sen
+
 BTech ECE | AI Developer
+
 Linkedin - https://www.linkedin.com/in/arijit-sen-188864228
+
 
 ❤️ Acknowledgment
 
